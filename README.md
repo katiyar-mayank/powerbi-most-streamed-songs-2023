@@ -17,7 +17,7 @@ This project is an advanced analytics dashboard built using **Power BI**, integr
 
 ## 📸 Screenshots
 
-![Dashboard Main](Dashboard-main.png)
+![Dashboard Main](Dashboard_main.png)
 
 ---
 
